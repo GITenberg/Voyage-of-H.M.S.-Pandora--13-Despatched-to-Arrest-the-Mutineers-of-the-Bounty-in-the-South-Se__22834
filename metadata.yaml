@@ -1,0 +1,41 @@
+_repo: Voyage-of-H.M.S.-Pandora--13-Despatched-to-Arrest-the-Mutineers-of-the-Bounty-in-the-South-Se__22834
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Thomson, Basil
+    aliases:
+    - Thomson, Basil C.
+    - Thomson, Basil Home, Sir
+    birthdate: 1861
+    deathdate: 1939
+    gutenberg_agent_id: '25572'
+    url: http://www.gutenberg.org/2009/agents/25572
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Edwards, Edward, Captain R. N.
+    gutenberg_agent_id: '25570'
+    url: http://www.gutenberg.org/2009/agents/25570
+  - agent_name: Hamilton, George, surgeon
+    gutenberg_agent_id: '25571'
+    url: http://www.gutenberg.org/2009/agents/25571
+description: ''
+gutenberg_issued: '2007-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22834'
+  lccn: '17014399'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pandora (Frigate)'
+- !lcsh 'Bounty (Ship)'
+- !lcsh 'Voyages around the world -- Early works to 1800'
+- !lcc 'G'
+title: "Voyage of H.M.S. Pandora\r\nDespatched to Arrest the Mutineers of the 'Bounty'\
+  \ in the South Seas, 1790-1791"
+url: http://www.gutenberg.org/ebooks/22834
