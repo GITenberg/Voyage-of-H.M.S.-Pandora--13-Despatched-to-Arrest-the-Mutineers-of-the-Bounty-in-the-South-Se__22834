@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '25571'
     url: http://www.gutenberg.org/2009/agents/25571
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22834#Voyage-of-H.M.S.-Pandora--13-Despatched-to-Arrest-the-Mutineers-of-the-Bounty-in-the-South-Se_
 gutenberg_issued: '2007-10-02'
 gutenberg_type: Text
 identifiers:
